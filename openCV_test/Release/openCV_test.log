@@ -1,2 +1,0 @@
-﻿  cv_test.cpp
-cv_test.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/objdetect/objdetect.hpp': No such file or directory
