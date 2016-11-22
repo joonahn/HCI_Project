@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////
 // OpenCV tracking example.
 // Written by darkpgmr (http://darkpgmr.tistory.com), 2013
-
+//hello world
 //#include "stdafx.h"
 #include <iostream>
 #include <windows.h>
